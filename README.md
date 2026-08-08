@@ -29,7 +29,7 @@ Install Pandas:
 ```bash
 pip install pandas
 
-
+```
 ## 🎮 Game Screenshot
 
 ![US State Game](images/us-state-game.png)
