@@ -32,4 +32,4 @@ pip install pandas
 
 ## 🎮 Game Screenshot
 
-![US State Game](images/us-state-game.png.png)
+![US State Game](images/us-state-game.png)
